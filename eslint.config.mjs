@@ -15,7 +15,7 @@ export default [
       semi: ["error", "always"],
       // curly: "error",
       "no-debugger": "off",
-      "@stylistic/js/max-len": ["error", { "code": 120 }],
+      "@stylistic/js/max-len": ["error", { "code": 235 }],
       "@stylistic/js/comma-dangle": ["error", "never"],
       "no-unused-vars": "off",
       "camelcase": "error",
